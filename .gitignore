@@ -1,0 +1,10 @@
+# 用户本地数据不入库
+profiles/
+
+
+# 编译中间产物
+src/app.ico
+src/icon_preview.png
+*.obj
+*.pdb
+.github/
