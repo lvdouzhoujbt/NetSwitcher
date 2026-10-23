@@ -1,6 +1,11 @@
 # NetSwitcher - 网卡 IP / 系统代理一键切换工具
 
+[![Release](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/lvdouzhoujbt/NetSwitcher/releases/latest)
+
 绿色单文件工具（约 58KB），支持 Win7 / Win10 / Win11（需 .NET Framework 4.0+ 运行时，Win7 若无请安装 Microsoft .NET Framework 4.0 或更高版本）。Win11 风格界面，亮/暗色自动跟随系统，高 DPI（125%/150%）下自动等比缩放不溢出。
+
+## 下载
+- **[点击下载最新版 NetSwitcher.exe](https://github.com/lvdouzhoujbt/NetSwitcher/releases/latest)** — 在 Releases 页下载 `NetSwitcher.exe` 即可，绿色免安装
 
 ## 功能总览
 - **方案切换**：网卡 IP 方案与代理方案分开保存、分开应用；托盘菜单一键切换
